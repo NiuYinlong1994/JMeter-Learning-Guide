@@ -43,4 +43,4 @@ Apache JMeter是一款纯java编写负载功能测试和性能测试开源工具
 
 2.4 启动JMeter
 
-    双击JMeter解压路径（apache-jmeter-5.1.1\bin） bin下面的jmeter.bat,查看页面显示，如能显示JMeter操作页面则安装成功。或者在命令行中键入"jmeter -v".
+    双击JMeter解压路径（apache-jmeter-5.1.1\bin） bin下面的jmeter.bat,查看页面显示，如能显示JMeter操作页面则安装成功。
