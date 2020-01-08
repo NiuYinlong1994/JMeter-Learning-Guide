@@ -40,7 +40,7 @@ Apache JMeter是一款纯java编写负载功能测试和性能测试开源工具
 
 2.2 下载JMeter 5.1版本：apcache-jmeter-5.1.zip
 
-2.3 下载完成后解压zip包
+2.3 下载完成后并解压zip包
 
 2.4 启动JMeter
 
