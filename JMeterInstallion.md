@@ -14,7 +14,7 @@ JMeter安装
 1）官网下载地址：http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
     （此链接下载超级慢建议去大公司的镜像站下载：华为：https://repo.huaweicloud.com/java/jdk/8u201-b09/）
-选择jdk-8u201-windows-i586.exe,点击下载.
+     选择jdk-8u201-windows-i586.exe,点击下载.
 
 3）JDK的安装与系统环境变量设置
 
@@ -35,6 +35,7 @@ JDK默认安装目录在C:\ProgramFiles(x86)\Java,其环境变量设置为：
 2.1 官网下载地址：http://jmeter.apache.org/download_jmeter.cgi
 
  Apache tomcat 7.0 (可选项，不一定要安装。 http://tomcat.apache.org/download-70.cgi)
+ 
 2.2 下载JMeter 5.1版本：apcache-jmeter-5.1.zip
 
 2.3 下载完成后并解压zip包
